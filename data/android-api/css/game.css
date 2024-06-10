@@ -1,0 +1,58 @@
+#board {
+    display: grid;
+    grid-template-columns: repeat(10, 30px); /* Tăng kích thước ô cờ từ 20px lên 30px */
+    background-color: #f0f0f0;
+    width: 300px; /* Tăng kích thước bảng từ 200px lên 300px */
+    height: 320px; /* Tăng kích thước bảng từ 200px lên 300px */
+    margin: auto;
+}
+.cell {
+    width: 30px; /* Tăng kích thước ô cờ từ 20px lên 30px */
+    height: 30px; /* Tăng kích thước ô cờ từ 20px lên 30px */
+    border: 1px solid #000; 
+    text-align: center; 
+    line-height: 30px; /* Tăng kích thước dòng từ 20px lên 30px */
+}
+.player1 { 
+    color: #ff0000; 
+}
+.player2 {
+    color: #ffd700; 
+}
+.win {
+    background-color: #90ee90; 
+}
+.buttonReset{
+    width: 20%;
+    padding: 10px;
+    background-color: #db4949;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 40%;
+}
+.back{
+    width: 30%;
+    padding: 10px;
+    background-color: #18ec37;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 35%;
+}
+.info {
+    text-align: center;
+    height: 75px;
+}
+.cell.selected {
+    background-color: lightblue;
+}.Caro-Rules {
+    font-family: system-ui;
+    padding: 15px;
+    font-size: 30px;
+    line-height: 35px;
+}

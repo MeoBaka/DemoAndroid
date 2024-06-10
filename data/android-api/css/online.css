@@ -1,0 +1,122 @@
+#game-board {
+		border-collapse: collapse;
+		margin-left: 30px;
+	}
+	#player-role1{
+		visibility: hidden;
+	}
+	#player-role2{
+		visibility: hidden;
+	}
+	.caro-cell {
+		width: 50px;
+		height: 50px;
+		border: 1px solid #000;
+        font-size: 35px;
+        color: black;
+	}
+
+	#game-board {
+		text-align: center;
+		margin-top: 100px;
+	}
+	.GamePlay {
+		display: flex;
+		width: auto;
+		justify-content: space-between;
+		visibility: hidden;
+		font-size: 40px;
+	}
+
+	.GamePlay-Title {
+		font-weight: bold;
+		display: flex;
+	}
+	.GamePlay-Title2 {
+		font-weight: bold;
+		display: flex;
+        justify-content: flex-end;
+	}
+
+	body {
+		font-family: system-ui;
+	}
+
+	.GamePLay-isMyTurn {
+		color: crimson;
+		font-weight: bold;
+		visibility: hidden;
+		
+	}
+	.GamePLay-isMyTurn2 {
+		color: crimson;
+		font-weight: bold;
+		visibility: hidden;
+	}
+
+	.GamePlay-Cooldown {
+		font-weight: bold;
+		color: darkgoldenrod;
+		visibility: hidden;
+	}
+	.GamePlay-Cooldown2 {
+		font-weight: bold;
+		color: darkgoldenrod;
+		visibility: hidden;
+	}
+
+	.GamePlay-Player2 {
+		text-align: right;
+	}
+	.GameMenu {
+		height: 60px;
+	}
+	.GameMenu-BtnFind{
+		padding: 10px 20px 10px 20px;
+		background-color: deepskyblue;
+		border-radius: 10px;
+		border: 0px;
+		color: white;
+		font-weight: bold;
+		font-family: monospace;
+		font-size: 20px;
+	}
+    .Caro-Rules {
+        font-family: system-ui;
+        padding: 15px;
+        font-size: 20px;
+        line-height: 35px;
+    }
+	.GameMenu-BreakFind{
+		padding: 30px 60px 30px 60px;
+		background-color: indianred;
+		color: white;
+		font-weight: bold;
+		font-family: monospace;
+		font-size: 40px;
+		border: 0px;
+		border-radius: 10px;
+		margin-left: 40%;
+	}
+	.game-alert{
+		color: red;
+		font-weight: bold;
+		font-family: monospace;
+		font-size: 40px;
+		position: absolute;
+		top: 30%;
+		background-color: #fff56aa6;
+		padding: 40px 80px 40px 80px;
+		border-radius: 10px;
+		animation-duration: 1s;
+		transition: 0.3s ease;
+		left: 15%;
+        scale: 0;
+	}
+	.TimTran {
+		font-weight: bold;
+		color: darkgoldenrod;
+		text-align: center;
+		font-size: 40px;
+		margin-top: 125px;
+	}

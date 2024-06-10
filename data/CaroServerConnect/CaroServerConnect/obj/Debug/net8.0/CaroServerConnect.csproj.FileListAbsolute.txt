@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\CaroServerConnect\CaroServerConnect\bin\Debug\net8.0\CaroServerConnect.exe
+C:\Users\admin\Desktop\CaroServerConnect\CaroServerConnect\bin\Debug\net8.0\CaroServerConnect.deps.json
+C:\Users\admin\Desktop\CaroServerConnect\CaroServerConnect\bin\Debug\net8.0\CaroServerConnect.runtimeconfig.json
+C:\Users\admin\Desktop\CaroServerConnect\CaroServerConnect\bin\Debug\net8.0\CaroServerConnect.dll
+C:\Users\admin\Desktop\CaroServerConnect\CaroServerConnect\bin\Debug\net8.0\CaroServerConnect.pdb
+C:\Users\admin\Desktop\CaroServerConnect\CaroServerConnect\obj\Debug\net8.0\CaroServerConnect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CaroServerConnect\CaroServerConnect\obj\Debug\net8.0\CaroServerConnect.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CaroServerConnect\CaroServerConnect\obj\Debug\net8.0\CaroServerConnect.AssemblyInfo.cs
+C:\Users\admin\Desktop\CaroServerConnect\CaroServerConnect\obj\Debug\net8.0\CaroServerConnect.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CaroServerConnect\CaroServerConnect\obj\Debug\net8.0\CaroServerConnect.dll
+C:\Users\admin\Desktop\CaroServerConnect\CaroServerConnect\obj\Debug\net8.0\refint\CaroServerConnect.dll
+C:\Users\admin\Desktop\CaroServerConnect\CaroServerConnect\obj\Debug\net8.0\CaroServerConnect.pdb
+C:\Users\admin\Desktop\CaroServerConnect\CaroServerConnect\obj\Debug\net8.0\CaroServerConnect.genruntimeconfig.cache
+C:\Users\admin\Desktop\CaroServerConnect\CaroServerConnect\obj\Debug\net8.0\ref\CaroServerConnect.dll
